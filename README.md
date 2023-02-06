@@ -1,6 +1,4 @@
 # Django-Point-Of-Sale-Management-System
-A point of sale management system written using Python's Django framework. 
-
 A point of sale management system written using Python's Django framework. It is capable of the following:
 
 1. Billing and order processing. Also tracks different card payment modes.
